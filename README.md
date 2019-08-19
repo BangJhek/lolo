@@ -18,7 +18,7 @@
 	If you blame me if something wrong with your account after use this bot,
 	See me in my group chat, i'll laught at you!
 
-	DO WITH YOU OWN RISK!!!!
+	DO WITH YOU OWN RISK!
 */
 ```
 
