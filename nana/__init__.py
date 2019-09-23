@@ -32,7 +32,7 @@ else:
 		log = logging.getLogger()
 		log.error("You need to place config.py in nana dir!")
 		quit(1)
-	TEST_DEVELOP = Config.TEST_DEVELOP
+	TEST_DEVELOP = Config.TEST_MODE
 
 if TEST_DEVELOP:
 	logging.basicConfig(level=logging.WARNING)

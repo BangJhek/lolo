@@ -107,3 +107,4 @@ nana/config.py
 nana/session/*
 !nana/session/README.md
 client_secrets.json
+unknown_errors.txt
